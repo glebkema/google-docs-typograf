@@ -1,2 +1,2 @@
 # google-docs-typograf
-Typograf puts special signs, dashes and non-breaking spaces in the Russian-language Google documents.
+Скрипт расставляет спецзнаки, тире и неразрывные пробелы в русскоязычных гугл-документах.
